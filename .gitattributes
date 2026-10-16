@@ -1,0 +1,7 @@
+# Project-specific overrides
+app/**/*.tsx linguist-detectable
+
+*.svg text
+*.png binary
+
+*.html linguist-vendored
